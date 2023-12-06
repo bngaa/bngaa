@@ -18,10 +18,10 @@
 
 ### My Contact : <br>
 </a> <br> <br>
-<a href="https://www.instagram.com/ungaaprillia/">">
+<a href="https://www.instagram.com/ungaaprillia/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
 </a> <br> <br>
-<a href="mailto:agrichre@gmail.com">
+<a href="mailto:aprilliabunga485@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge" height="35" width="150"/>
 </a> <br> <br>
 </a> 
