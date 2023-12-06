@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="5000p" align="middle" src="https://github.com/bngaa/bngaa/blob/main/Blue%20and%20Pink%20Illustrated%20Anime%20Comic%20Sea%20Wave%20Girl%20Desktop%20Wallpaper.gif">
 
 <!--
 **bngaa/bngaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
