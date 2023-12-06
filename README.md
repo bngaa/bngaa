@@ -4,19 +4,18 @@
 
 <img src="https://github.com/bngaa/bngaa/blob/main/giphy%20(1).gif" align="right" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me :**
+- 📌A beginner at programming
+- 👩🏻‍💻A freshman student in Informatics Major at Universitas Negeri Padang
+- 💻Interested in AI, Hackers and Game Development
+- 🎗My hobbies are martial arts and sleeping
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### My Contact : <br>
+</a> <br> <br>
+<a href="https://discordapp.com/users/yayaya1504">
+  <img src="https://img.shields.io/badge/Discord-deeppink?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
 <a href="https://www.instagram.com/ungaaprillia/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
