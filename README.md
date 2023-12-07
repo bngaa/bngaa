@@ -12,16 +12,16 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### My Contact : <br>
+### My Contact : 
 </a> <br> <br>
 <a href="https://discordapp.com/users/yayaya1504">
-  <img src="https://img.shields.io/badge/Discord-deeppink?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Discord-deeppink?style=for-the-badge&logo=discord&logoColor=black" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
 <a href="https://www.instagram.com/ungaaprillia/">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge" height="35" width="150"/>
 </a> <br> <br>
 <a href="mailto:aprilliabunga485@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge" height="35" width="150"/>
 </a> <br> <br>
 </a> 
 </div>
